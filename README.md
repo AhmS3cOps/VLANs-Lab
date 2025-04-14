@@ -1,7 +1,3 @@
-Got you!  
-Your content is solid, you’ve clearly done a good job explaining the steps and showing evidence with screenshots — I’ll just clean up the structure, formatting, and flow to make it look more professional and easier to read. Here's a better-structured version of your README (without changing your content):
-
----
 
 # **VLANs Lab**
 
